@@ -17,8 +17,8 @@ https://warisreshi.github.io/glassmorphism_loginpage/
 
 ## Screenshots
 
-![Desktop](./screenshots/1.jpg)
-![Mobile](./screenshots/1.jpg)
+![Desktop](./screenshots/1.png)
+![Mobile](./screenshots/2.png)
 
 
 ## 🚀 About Me
