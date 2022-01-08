@@ -1,12 +1,14 @@
 # Minimal Glassmorphism Login Page
 
-A beautiful Glassmorphism Login Page, Built in only HTML and Css, Very Minimal and Lightweight Login Page.
+A beautiful and responsive Glassmorphism Login Page, Built in only HTML and Css, Very Minimal and Lightweight Login Page. Easy to use for beignners.
 
 
 ## Features
 
 - Minimal.
 - Lightweight.
+- Beginner friendly.
+- Responsive on all devices (Desktop, Phone and Tablet).
 - Totally customizable.
 - Easy to customize.
 
@@ -23,4 +25,4 @@ https://warisreshi.github.io/glassmorphism_loginpage/
 ## 🚀 About Me
 I'm a Web Developer from Jammu and Kashmir India, I am 13.
 
-Fun Fact⚡ I love css, just kidding 😂.
+Fun Fact⚡I love css, just kidding.
