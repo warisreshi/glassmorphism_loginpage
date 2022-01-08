@@ -26,17 +26,20 @@ body {
   border-radius: 15px;
   border-left: 1px solid rgba(255, 255, 255, 0.3);
   border-top: 1px solid rgba(255, 255, 255, 0.3);
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
 }
 h1{
   font-size: 50px;
   margin-left: 10%
 }
+
+/* From Styling */
 label {
   font-size: 20px;
   margin-left: 10%;
   opacity: 0.8;
 }
+/* Input Box Styling (Username, Password) */
 input {
   width: 80%;
   margin: 5% auto;
@@ -50,7 +53,8 @@ input {
   font-family: inherit;
   color: inherit;
 }
-button{
+/* Login Button Styling */
+#login{
   width: 50%;
   margin: 3% auto;
   font-size: 15px;
@@ -65,15 +69,26 @@ button{
   border-top: 1px solid rgba(255, 255, 255, 0.3);
   font: inherit;
 }
-button:hover{
+#login:hover{
   cursor:pointer;
   background: rgba(255, 255, 255, 0.2);
   transition: ease .5s;
 }
 
-
-/* Remove This */
-a{
+/* Bottom Links Styling */
+.bottomlinks{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 25px;
+}
+#create_account, #forgot_password{
   color: white;
-  text-align: center;
+  text-decoration: none;
+  opacity: .4;
+  font-family: 'Inter', sans-serif;
+}
+#create_account:hover, #forgot_password:hover{
+  opacity: .8;
+  transition: ease-in 0.1;
 }
