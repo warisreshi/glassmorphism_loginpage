@@ -2,7 +2,9 @@
 
 A beautiful and responsive Glassmorphism Login Page, Built in only HTML and Css, Very Minimal and Lightweight Login Page. Easy to use for beignners.
 
+## Support
 
+<p><a href="https://www.buymeacoffee.com/warisreshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="warisreshi" /></a></p><br><br>
 ## Features
 
 - Minimal.
